@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to my GitHub!
+  Hey there !
 </h3>
 
 <p align="center">
@@ -80,17 +80,17 @@
 </a>
 
 
-<a href="https://mcp-project.org/">
+<a href="https://modelcontextprotocol.io/introduction">
   <img alt="MCP" src="https://img.shields.io/badge/MCP-5C2D91.svg?logo=minecraft&logoColor=white" />
 </a>
 
 
-<a href="https://example.com/crewai">
+<a href="https://www.crewai.com/">
 <img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-FF9900.svg?logo=artificial-intelligence&logoColor=white" />
 </a>
 
 
-<a href="https://example.com/a2a">
+<a href="https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/">
 <img alt="A2A" src="https://img.shields.io/badge/A2A-00BFFF.svg?logo=shield&logoColor=white" />
 </a>
 
