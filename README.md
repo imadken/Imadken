@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  Imad KENAI
+  <a href="imadken.github.io"> Imad KENAI </a>
 </p>
 
 <p align="center">
